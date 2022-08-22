@@ -1,0 +1,5 @@
+{
+    "port": 4000,
+    "mongoUri": "mongodb+srv://zapolskikh:325549qwer@zapolskikh.bifygdg.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "OlegZapolskikhMern"
+}
