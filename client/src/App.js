@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
     <div className="container">
-      <h1>Hello</h1>
+     {routes}
     </div>
     </Router>
   );
